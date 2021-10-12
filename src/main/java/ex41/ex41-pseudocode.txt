@@ -1,0 +1,14 @@
+Class App41
+
+The code will scan the input file
+
+Function nameScan, opens the input.txt and reads it
+getting the information from the file.
+
+Function printList, prints the format of the list with
+The number for the size of the list and by doing this
+creates the output.txt file.
+
+Main function, finds the input file uses the nameScan,
+sorts it with the collection.Sort and prints it using the
+printList.

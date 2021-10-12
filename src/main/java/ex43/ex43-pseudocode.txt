@@ -1,0 +1,12 @@
+Class app43
+
+The code scans the user input of the chosen name of the site and
+the author of the file. It initializes the javascript and CCS
+It prompts the user for the site name and then the author.
+
+Asks if it should generate a folder for javascript and the user
+inputs the answer with y or n. Does the the same for the CCS folder.
+
+If yes then the program generates the site in the assigned directory.
+
+It can generate both folders or just one or none.

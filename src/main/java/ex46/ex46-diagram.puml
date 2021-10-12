@@ -1,0 +1,12 @@
+@startuml
+class App46
+{
++public static void main(array[]: String)
+}
+
+inF->main : input
+main->TreeMap : input
+hashMap->inF : TreeMap
+hashMap-> main : key counter +1
+main->output : word amount of *
+@enduml

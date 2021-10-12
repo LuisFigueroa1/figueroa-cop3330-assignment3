@@ -1,0 +1,11 @@
+Class App45
+
+The code finds the input file and scans it to get the information
+from it, and it also has to prompt the user for output file name
+and then, scan that user input.
+
+Uses the information scanned from the input file and the name
+given to the output and generates a new output file replacing the
+word indicated with the word assigned.
+
+Prints the generated output file with the given output name.

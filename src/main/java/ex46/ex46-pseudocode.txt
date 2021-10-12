@@ -1,0 +1,13 @@
+Class App46
+
+The code finds the input file and scans it.
+It maps the input file given, uses a hash map and a tree map to
+count the keys present in the input file.
+
+It scans the input file and looks for repeated keys and adds 1
+to the counter if it finds a coincidence if it doesn't find one it
+goes to the next word
+
+A histogram is generated and formatted.
+The histogram's information is generated from the information
+gathered with the key counter and print the "*" symbol.

@@ -1,0 +1,8 @@
+@startuml
+class App41
+{
++public static void nameScan (scan: Scanner, nameList: ArrayList<String>)
++public static void printList(nameList: ArrayList<String>)
++public static void main(args: String[])
+}
+@enduml

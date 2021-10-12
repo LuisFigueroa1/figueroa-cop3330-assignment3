@@ -1,0 +1,11 @@
+@startuml
+class App45
+{
++public static void main(args: String[])
+}
+
+inF->main : input
+main->user : enter name of output
+user->main : name of output
+main-> outF : modified input
+@enduml

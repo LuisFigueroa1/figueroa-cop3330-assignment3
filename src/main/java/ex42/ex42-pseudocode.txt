@@ -1,0 +1,12 @@
+Class App42
+
+The code will use the formatted results function
+
+Function formattedResults, first it finds and scans the
+input file, gets the information from the input file and
+formats it replacing the comas with spaces and so on.
+
+Main function, creates the new output by getting the information
+from the input file and prints the header followed by the input
+file formatted. Formatted by the formattedResults function and
+Prints it.

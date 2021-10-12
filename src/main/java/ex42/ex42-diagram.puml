@@ -1,0 +1,10 @@
+@startuml
+class App42
+{
++public void formattedResults(exercise42: String)
++public static void main(args: String[])
+}
+
+main->formattedResults
+formattedResults->main
+@enduml

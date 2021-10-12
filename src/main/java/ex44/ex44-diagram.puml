@@ -1,0 +1,12 @@
+@startuml
+class App44
+{
++public static void main(args: String[])
+}
+
+App->Main
+main-> JSON
+JSON->user : input
+user -> product : product name
+product -> main : product info
+@enduml

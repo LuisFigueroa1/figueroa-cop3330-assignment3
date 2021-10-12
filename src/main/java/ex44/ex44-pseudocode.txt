@@ -1,0 +1,9 @@
+Class app 44
+
+The code starts using the JSON parser to use the JSON files
+Create JSON objects to read the values and get the products.
+
+We start to prompt the user for information like the name,
+The name is matched with the file suing iteration, if is there
+we show the quantity and price present in the file if is not there
+we show the not present in the inventory message.
